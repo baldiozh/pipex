@@ -1,0 +1,3 @@
+./pipex file1 cmd1 cmd2 file2
+it's like 
+< file1 cmd1 | cmd2 > file2
